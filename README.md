@@ -9,8 +9,8 @@ problems.
 - `CapstoneProject.ipynb`: Notebook for multiclass classification.
 - Preprocessing pipeline using scikit-learn (`SelectKBest`).
 - MLP training with TensorFlow/Keras.
-- PCA-based visualization of results.
-- Evaluation metrics: Accuracy, Confusion Matrix, ROC-AUC (for binary), and classification report.
+- PCA-based visualization of the dataset.
+- Evaluation metrics: Accuracy, Confusion Matrix, and classification report.
 
 ## Dataset
 We use the CuMiDa dataset, which includes gene expression data labeled by brain
